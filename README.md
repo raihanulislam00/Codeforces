@@ -1,9 +1,9 @@
 # Codeforces Contest
 
-| Contest Name | Date | Contest Link | Code Link |
-|--------------|------|--------------|-----------|
-| Codeforces Round 1008 (Div. 2) | Mar/10/2025 | [Link](https://codeforces.com/contest/2078) | [Link](https://github.com/raihanulislam00/Codeforces/tree/main/Codeforces%20Round%201008%20(Div.%202)) |
-| EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2) | Aug/11/2024 |[Link](https://codeforces.com/contest/2002)|[Link](https://github.com/raihanulislam00/Codeforces/tree/main/EPIC%20Institute%20of%20Technology%20Round%20August%202024%20(Div.%201%20%2B%20Div.%202)) |(https://github.com/RaihanulIslamNahid/Codeforces/tree/main/EPIC%20Institute%20of%20Technology%20Round%20August%202024%20(Div.%201%20%2B%20Div.%202))|
+| Contest Name | Date | Contest Link | Code Link | Editorial |
+|--------------|------|--------------|-----------|-----------|
+| Codeforces Round 1008 (Div. 2) | Mar/10/2025 | [Link](https://codeforces.com/contest/2078) | [Link](https://github.com/raihanulislam00/Codeforces/tree/main/Codeforces%20Round%201008%20(Div.%202)) |[Link]()|
+| EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2) | Aug/11/2024 |[Link](https://codeforces.com/contest/2002)| [Link](https://github.com/raihanulislam00/Codeforces/tree/main/EPIC%20Institute%20of%20Technology%20Round%20August%202024%20(Div.%201%20%2B%20Div.%202)) |[Link]()|
 | Codeforces Round 965 (Div. 2) | Aug/10/2024 |[Link](https://codeforces.com/contest/1998)|[Link](https://github.com/RaihanulIslamNahid/Codeforces/tree/main/%20Codeforces%20Round%20965%20(Div.%202))|
 | Codeforces Round 964 (Div. 4) | Aug/06/2024 | [Link](https://codeforces.com/contest/1999) |[Link](https://github.com/RaihanulIslamNahid/Codeforces/tree/main/%20Codeforces%20Round%20964%20(Div.%204))|
 | Codeforces Round 962 (Div. 3) | Jul/26/2024 | [Link](https://codeforces.com/contest/1996) | [Link](https://github.com/RaihanulIslamNahid/Codeforces/tree/main/Codeforces%20Round%20962%20(Div.%203)) |
